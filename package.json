@@ -1,6 +1,6 @@
 {
     "name": "filepond-plugin-image-size-metadata",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Image size metadata Plugin for FilePond",
     "homepage": "https://pqina.nl/filepond",
     "repository": "yoldar/filepond-plugin-image-size-metadata",
@@ -13,6 +13,6 @@
         "url": "https://github.com/yoldar"
     },
     "peerDependencies": {
-        "filepond": "^1.8.0"
+        "filepond": ">=1.8.x <5.x"
     }
 }
